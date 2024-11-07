@@ -1,5 +1,5 @@
 export default function Home() {
   return <div>
-    test page with no dynamic route, should format correctly
+    test page with no dynamic route, prettier will load 
   </div>
 }

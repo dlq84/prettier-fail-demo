@@ -1,6 +1,6 @@
 
 export async function Page() {
   return <div>
-    Test page with dynamic route
+    test page with dynamic route, prettier will NOT load because of the dynamic route ([...paramx])
   </div>
 }
